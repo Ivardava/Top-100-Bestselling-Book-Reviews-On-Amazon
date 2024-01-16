@@ -16,10 +16,6 @@
 
 This repository contains Python code for achieving the above objectives. The dataset includes information about the top 100 bestselling books on Amazon, covering a range of details like book titles, prices, ratings, authors, and customer reviews.
 
-## Data Sources
-
-- [Book Titles Dataset](Datasets/Kaggle/TOP_100_Bestselling_Book_Reviews_on_AMAZON/book_titles.csv)
-- [Customer Reviews Dataset](Datasets/Kaggle/TOP_100_Bestselling_Book_Reviews_on_AMAZON/customer_reviews.csv)
 
 ## Data Cleaning and Exploration
 
@@ -38,6 +34,48 @@ The analysis involves the use of Pandas, NumPy, Matplotlib, Seaborn, and Squarif
 - Yearly trends in the number of books released.
 - Correlation analysis between different numerical features.
 
-## Visualizations
+### Top 10 Highest Priced Books
 
-... (the rest of the content remains the same)
+Visual representation of the top 10 highest priced books, including the average price.
+
+### Top 10 Highest Priced Books with Ratings
+
+Comparison of the top 10 highest priced books with their ratings, including the average rating line.
+
+### Top 5 Genres - Treemap
+
+A treemap showing the distribution of the top 5 genres.
+
+### Yearly Trends
+
+Line chart illustrating the yearly trends in the number of books released.
+
+### Correlation Heatmap
+
+Heatmap displaying the correlation between different numerical features.
+
+### Scatter Plot (Rating & Price)
+
+Scatter plot to visualize the relationship between book price and rating.
+
+### Jointplot
+
+Jointplot for a better understanding of the relationship between book price and rating.
+
+### Verified Reviewers Percentage
+
+Pie chart representing the percentage of verified reviewers.
+
+### Average Rating Over Years
+
+Line chart showcasing the average rating of books over the years.
+
+### Reviewer Rating Distribution
+
+Pie chart illustrating the distribution of reviewer ratings.
+
+## Conclusion
+
+The analysis provides insights into the pricing, ratings, and trends of the top 100 bestselling books on Amazon. The visualizations help in understanding relationships and patterns within the dataset.
+
+
