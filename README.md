@@ -2,15 +2,22 @@
 
 ## Objectives
 
-1. **Data Exploration:** Explore and analyze the dataset containing information about the top 100 bestselling books on Amazon, including book titles, prices, ratings, authors, and customer reviews.
+## Genre and Pricing Analysis:
 
-2. **Data Cleaning:** Utilize Pandas, NumPy, and other libraries to clean the dataset, handle missing values, and optimize data types for efficient memory usage.
+1. Visualize top genres using a treemap and analyze pricing trends for the top 10 highest-priced books with their ratings.
+  
+2. Investigate correlations between book genres and prices.
 
-3. **Visualizations:** Create insightful visualizations using Matplotlib, Seaborn, and Squarify to represent patterns, trends, and relationships within the dataset.
+## Yearly Trends and Correlation:
 
-4. **Insight Generation:** Derive meaningful insights from the data, such as trends in book pricing, correlations between different features, and the distribution of ratings.
+3. Examine yearly trends in book releases to understand industry growth.
+4. Explore correlations among numerical variables like book price, rating, and publication year.
 
-5. **GitHub Repository:** Organize the code, analysis, and visualizations in a GitHub repository, making it accessible for others to explore and learn from the analysis.
+## Reviewers and Ratings Analysis:
+
+5. Analyze the distribution of reviewer ratings, focusing on the percentage of verified reviewers.
+
+6. Explore trends in average ratings over the years and examine common reviewer rating categories.
 
 ## Overview
 
