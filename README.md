@@ -2,18 +2,18 @@
 
 ## Objectives
 
-## Genre and Pricing Analysis:
+Genre and Pricing Analysis:
 
 1. Visualize top genres using a treemap and analyze pricing trends for the top 10 highest-priced books with their ratings.
   
 2. Investigate correlations between book genres and prices.
 
-## Yearly Trends and Correlation:
+Yearly Trends and Correlation:
 
 3. Examine yearly trends in book releases to understand industry growth.
 4. Explore correlations among numerical variables like book price, rating, and publication year.
 
-## Reviewers and Ratings Analysis:
+Reviewers and Ratings Analysis:
 
 5. Analyze the distribution of reviewer ratings, focusing on the percentage of verified reviewers.
 
