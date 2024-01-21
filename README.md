@@ -41,6 +41,8 @@ The analysis involves the use of Pandas, NumPy, Matplotlib, Seaborn, and Squarif
 - Yearly trends in the number of books released.
 - Correlation analysis between different numerical features.
 
+## Data Analysis
+
 ### Top 10 Highest Priced Books
 
 Visual representation of the top 10 highest priced books, including the average price.
