@@ -1,4 +1,4 @@
-# Top 100 Bestselling Book Reviews on Amazon - Data Analysis and Visualization
+# Top 100 Bestselling Book Reviews on Amazon
 
 ## Objectives
 
